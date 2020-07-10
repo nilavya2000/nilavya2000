@@ -1,4 +1,10 @@
-### Hi there 👋 Whats up.. 
+# Hi there 👋
+## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
+
+## you can connect 📫 me on : -
+### [Twitter](https://twitter.com/Nilavya1) [Linkedin](https://www.linkedin.com/in/nilavya-das-0ba627173/) [Facebook](https://www.facebook.com/nilavya.das.1)
+
+
 
 
 <!--
