@@ -5,7 +5,7 @@
 
 
 
-## -  You can connect 📫 me on : 
+## You can connect 📫 me on : 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
