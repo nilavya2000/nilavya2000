@@ -1,6 +1,9 @@
 # Hi there 👋
 ## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
 
+
+
+![Nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&show_icons=true)
 ## you can connect 📫 me on : -
 ### [Twitter](https://twitter.com/Nilavya1) 
 ### [Linkedin](https://www.linkedin.com/in/nilavya-das-0ba627173/) 
