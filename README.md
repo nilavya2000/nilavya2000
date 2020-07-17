@@ -1,18 +1,14 @@
 # Hi there 👋
+<p><img src= https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60> </p>
+
 ## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
 
-<p><img src="<p><img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="Data_Scientist" style="height=100px, width:100px;"/> to my GitHub profile :pray:</p>
-" alt="Welcome" style="height=100px, width:100px;"/> to my GitHub profile :pray:</p>
 
+## you can connect 📫 me on : -
 
+![Github](https://img.shields.io/github/followers/nilavya2000?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Nilavya1?style=social)
 
 ![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&hide=["issues"])
-## you can connect 📫 me on : -
-### [Twitter](https://twitter.com/Nilavya1) 
-### [Linkedin](https://www.linkedin.com/in/nilavya-das-0ba627173/) 
-### [Facebook](https://www.facebook.com/nilavya.das.1)
-
-
 
 
 <!--
