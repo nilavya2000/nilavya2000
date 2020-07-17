@@ -2,7 +2,7 @@
 <p><img src= https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60> </p>
 
 ## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
-[![HitCount](http://hits.dwyl.com/nilavya2000/DATA-STRUCTURE-and-ALGORITHM.svg)](http://hits.dwyl.com/nilavya2000/DATA-STRUCTURE-and-ALGORITHM)
+
 
 
 ## -  You can connect 📫 me on : 
