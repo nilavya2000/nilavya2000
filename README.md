@@ -1,6 +1,9 @@
 # Hi there 👋
 ## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
 
+<p><img src="<p><img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="Data_Scientist" style="height=100px, width:100px;"/> to my GitHub profile :pray:</p>
+" alt="Welcome" style="height=100px, width:100px;"/> to my GitHub profile :pray:</p>
+
 
 
 ![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&hide=["issues"])
