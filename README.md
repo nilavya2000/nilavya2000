@@ -3,7 +3,7 @@
 
 
 
-![Nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&show_icons=true)
+![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&hide=["issues"])
 ## you can connect 📫 me on : -
 ### [Twitter](https://twitter.com/Nilavya1) 
 ### [Linkedin](https://www.linkedin.com/in/nilavya-das-0ba627173/) 
