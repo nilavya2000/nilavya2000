@@ -1,7 +1,7 @@
 # Hi there 👋
-<p><img src= https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60> </p>
+<p><img src= https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif> </p>
 
-## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
+
 
 - 🔭 I’m currently studying B.Tech in India.
 - 🌱 I’m currently learning Machine Learning and Deep learning.
@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
 -->
+
