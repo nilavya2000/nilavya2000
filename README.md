@@ -1,4 +1,4 @@
-# Hi there 👋
+
 <p><img src= https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif> </p>
 
 
@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+# Hi there 👋
 ## I am currently exploring in Machine Learning and Deep learning 🔭 and looking :eyes: for projects to contrtibute .
 -->
 
