@@ -6,32 +6,13 @@
 
 
 ## You can connect 📫 me on : 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
+[![linkedin](https://img.shields.io/badge/-nilavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilavya-das-0ba627173/)](https://www.linkedin.com/in/nilavya-das-0ba627173/)![Github](https://img.shields.io/github/followers/nilavya2000?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Nilavya1?style=social)
 
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter )
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook )
-[6.1]: http://i.imgur.com/0o48UoR.png (github )
-
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/Nilavya1
-[2]: https://www.facebook.com/nilavya.das.1
-[6]: https://github.com/nilavya2000
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-![Github](https://img.shields.io/github/followers/nilavya2000?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Nilavya1?style=social)
+<a href="https://github.com/nilavya2000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavya2000&theme=dark&hide_langs_below=1" />
+</a>
 
 ![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&hide=["issues"])
 
