@@ -1,7 +1,7 @@
 
 <p><img src= "https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width = 250px height=200px> </p>
 
-HI everyone, myself Nilavya Das doing my B.Tech from India currently exploring in Machine Learning and Deep Learning and looking for projects to contribute.
+HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from India, currently exploring in Machine Learning and Deep Learning  :snowflake: and looking for projects to contribute.
 
 #### This year aiming for : - 
 - Hacktoberfest
