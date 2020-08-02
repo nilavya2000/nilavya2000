@@ -30,7 +30,7 @@ HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavya2000&theme=dark&hide_langs_below=1" />
 </a>
 -->
-![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000&hide=["issues"])
+![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000)
 
 
 #### ------------------------- _I love to have coffee while working._ ------------------------
