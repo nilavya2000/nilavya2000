@@ -6,25 +6,19 @@ _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cs
     <li> Hack Club Leader </li>
   <li> Love to working on canva </li> 
   <li> Looking for Global Minima. </li> </ul>
-  Languages
+  Languages: - 
   <ul> <li> C++ </li>
   <li> Python3 </li>
   </ul> <br>
+  Frameworks: -
+  <ul><li>Pandas</li><li>Numpy</li><li>Matplot</li><li>Tnserflow</li><li>Keras</li><li>Seaboen</li></ul>
+  Tools:-
+  <ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Github</li></ul>
+  
 <!--
 #### This year aiming for : - 
 - Hacktoberfest
 - GSOC -->
-
-<!--
-- 🔭 I’m currently studying B.Tech in India.
-- 🌱 I’m currently learning Machine Learning and Deep learning.
-- 👯 I’m looking to collaborate on Projects.
-- 🤔 I’m looking for help in building the models from scratch.
-- 💬 Ask me about python, Machine learning, and stuffs related to cs.
-- 📫 How to reach me:  [Twitter (Nilavya1) ](https://twitter.com/Nilavya1) , [Linkedin (Nilavya Das) ](https://www.linkedin.com/in/nilavya-das-0ba627173/)
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: I drink coffee while coding.
--->
 
 #### Currently Working on : 
 [Monster](https://github.com/nilavya2000/monster)
