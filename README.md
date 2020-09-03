@@ -31,7 +31,7 @@ _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cs
 #### You can connect 📫 me on : 
 <a href="https://www.facebook.com/nilavya.das.1">
     <img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/facebook.png" height="30" width="30">
- </a> <a href="https://www.instagram.com/_n_i_l_a_v_y_a_/"><img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/instagram.png" height="30" width="30"> </a> <a href="https://www.linkedin.com/in/nilavya-das-0ba627173/"><img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/linkedin.png" height="30" width="30"></a> <a href="https://www.linkedin.com/in/nilavya-das-0ba627173/"> <img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/twitter.png" height="30" width="30"></a>
+ </a> <a href="https://www.instagram.com/_n_i_l_a_v_y_a_/"><img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/instagram.png" height="30" width="30"> </a> <a href="https://www.linkedin.com/in/nilavya-das-0ba627173/"><img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/linkedin.png" height="30" width="30"></a> <a href="https://twitter.com/Nilavya1"> <img src="https://github.com/nilavya2000/nilavya2000/blob/master/images/twitter.png" height="30" width="30"></a>
  
  
  
