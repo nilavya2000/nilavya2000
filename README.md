@@ -1,5 +1,5 @@
 
-<p><img src= "https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width = 250px height=200px> </p>
+<p><img src= "images/cooveer (1).gif"> </p>
 
 HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from India, currently exploring in Machine Learning and Deep Learning  :snowflake: and looking for projects to contribute.
 <!--
