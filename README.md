@@ -1,5 +1,5 @@
 
-<p><img src= "images/cooveer (1).gif"> </p>
+<p><img src= "https://github.com/nilavya2000/nilavya2000/blob/master/images/cooveer%20(1).gif"> </p>
 
 HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from India, currently exploring in Machine Learning and Deep Learning  :snowflake: and looking for projects to contribute.
 <!--
