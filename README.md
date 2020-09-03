@@ -21,8 +21,6 @@ HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from
 #### Currently Working on : 
 [Monster](https://github.com/nilavya2000/monster)
 
-#### You can connect 📫 me on : 
-[![linkedin](https://img.shields.io/badge/-nilavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilavya-das-0ba627173/)](https://www.linkedin.com/in/nilavya-das-0ba627173/) ![Github](https://img.shields.io/github/followers/nilavya2000?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Nilavya1?style=social)
 
 
 <a href="https://github.com/nilavya2000">
@@ -31,6 +29,8 @@ HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from
 
 ![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000)
 
+#### You can connect 📫 me on : 
+[![linkedin](https://img.shields.io/badge/-nilavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilavya-das-0ba627173/)](https://www.linkedin.com/in/nilavya-das-0ba627173/) ![Github](https://img.shields.io/github/followers/nilavya2000?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Nilavya1?style=social)
 
 #### ------------------------- _I love to have coffee while working._ ------------------------
 <!--
