@@ -25,11 +25,10 @@ HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from
 [![linkedin](https://img.shields.io/badge/-nilavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilavya-das-0ba627173/)](https://www.linkedin.com/in/nilavya-das-0ba627173/) ![Github](https://img.shields.io/github/followers/nilavya2000?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Nilavya1?style=social)
 
 
-<!--
 <a href="https://github.com/nilavya2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavya2000&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavya2000&theme=light&hide_langs_below=1" />
 </a>
--->
+
 ![nilavya's github stats](https://github-readme-stats.vercel.app/api?username=nilavya2000)
 
 
