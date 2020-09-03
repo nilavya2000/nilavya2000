@@ -7,9 +7,7 @@ _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cs
   <li> Love to working on canva </li> 
   <li> Looking for Global Minima. </li> </ul>
   Languages: - 
-  <ul> <li> C++ </li>
-  <li> Python3 </li>
-  </ul> <br>
+  <ul> <li> C++ </li><li> Python3 </li></ul>
   Frameworks: -
   <ul><li>Pandas</li><li>Numpy</li><li>Matplot</li><li>Tnserflow</li><li>Keras</li><li>Seaboen</li></ul>
   Tools:-
