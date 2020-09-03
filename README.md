@@ -13,28 +13,10 @@ _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cs
   Tools:-
   <ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Github</li></ul> --> 
 <table>
-<tr>
-<th>
-FrameWorks
-</th>
-<th>
-Tools
-</th>
-</tr>
-
-<tr>
+<tr> <th> FrameWorks </th> <th> Tools </th> </tr> <tr> <td> <pre> <ul><li>Pandas</li> <li>Numpy</li> <li>Matplot</li> <li>Tnserflow</li> <li>Keras</li> <li>Seaboen</li> </ul> </pre> </td>
 <td>
 <pre>
-<ul><li>Pandas</li> <li>Numpy</li> <li>Matplot</li> <li>Tnserflow</li> <li>Keras</li> <li>Seaboen</li> </ul>
-</pre>
-</td>
-<td>
-<pre>
-<ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Github</li></ul>
-</pre>
-</td>
-</tr>
-</table>
+<ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Git</li><li>Github</li></ul> </pre> </td> </tr> </table>
   
 <!--
 #### This year aiming for : - 
