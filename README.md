@@ -1,7 +1,15 @@
 
 <p><img src= "https://github.com/nilavya2000/nilavya2000/blob/master/images/cooveer%20(1).gif"> </p>
 
-HI everyone,:love_you_gesture:  myself Nilavya Das doing my B.Tech :school: from India, currently exploring in Machine Learning and Deep Learning  :snowflake: and looking for projects to contribute.
+_Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cse from _Siliguri Institute of Technology_, West Bengal, India.<br>
+<ul> <li> Data Science enthusiast </li>
+    <li> Hack Club Leader </li>
+  <li> Love to working on canva </li> 
+  <li> Looking for Global Minima. </li> </ul>
+  Languages
+  <ul> <li> C++ </li>
+  <li> Python3 </li>
+  </ul> <br>
 <!--
 #### This year aiming for : - 
 - Hacktoberfest
