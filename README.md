@@ -8,10 +8,33 @@ _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cs
   <li> Looking for Global Minima. </li> </ul>
   Languages: - 
   <ul> <li> C++ </li><li> Python3 </li></ul>
-  Frameworks: -
+  <!--Frameworks: -
   <ul><li>Pandas</li><li>Numpy</li><li>Matplot</li><li>Tnserflow</li><li>Keras</li><li>Seaboen</li></ul>
   Tools:-
-  <ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Github</li></ul>
+  <ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Github</li></ul> --> 
+<table>
+<tr>
+<th>
+FrameWorks
+</th>
+<th>
+Tools
+</th>
+</tr>
+
+<tr>
+<td>
+<pre>
+<ul><li>Pandas</li> <li>Numpy</li> <li>Matplot</li> <li>Tnserflow</li> <li>Keras</li> <li>Seaboen</li> </ul>
+</pre>
+</td>
+<td>
+<pre>
+<ul><li>Vs Code</li><li>Atom</li><li>Jupyter Notebook</li><li>Colab</li><li>Github</li></ul>
+</pre>
+</td>
+</tr>
+</table>
   
 <!--
 #### This year aiming for : - 
