@@ -1,5 +1,5 @@
 
-<p><img src= "https://github.com/nilavya2000/nilavya2000/blob/master/images/cooveer%20(1).gif"> </p>
+<p><img src= "https://github.com/nilavya2000/nilavya2000/blob/master/images/cooveer%20(1).png"> </p>
 
 _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cse from _Siliguri Institute of Technology_, West Bengal, India.<br>
 <ul> <li> Data Science enthusiast </li>
