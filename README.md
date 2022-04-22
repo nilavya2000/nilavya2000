@@ -1,5 +1,5 @@
 
-<p><img src= "https://github.com/nilavya2000/nilavya2000/blob/master/images/Untitled%20design%20(4).png"> </p>
+<p><img src= "https://github.com/nilavya2000/nilavya2000/blob/master/images/linkedin%20cover%20image.png"> </p>
 
 _Hello everyone,_ <br> Myself, **Nilavya** currently pursing by **B.Tech** in cse from _Siliguri Institute of Technology_, West Bengal, India.<br>
 <ul> <li> Data Science enthusiast </li>
