@@ -9,8 +9,12 @@
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center", src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science;Machine+Learning;Data+Visualization;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>    -->
+
 <br>
 <h2> :sassy_man:  About me </h2>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<br><br>
+	
 - 🔭 I’m currently working on `solving problems on kaggle`
 - 🌱 I’m currently learning `Data Science, Machine Learning, Deep Learning`
 - 👯 I’m looking to collaborate with other developers for `building cool projects on data science`
