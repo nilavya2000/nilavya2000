@@ -57,10 +57,10 @@
     <a href="https://github.com/7oSkaaa"><img alt="Nilavya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilavya2000&custom_title=Nilavya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
    
-<h2> :trophy: Git profile Trophies </h2>
+<!-- <h2> :trophy: Git profile Trophies </h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilavya2000&layout=compact&theme=algolia" alt="Nilavya" /></a> </p>
-<br>
+<br> -->
   <br> 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h2>
 <p align="center">
