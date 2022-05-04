@@ -21,6 +21,19 @@
     
  <br>
  <br>
+<h2> 📚 My Skills <h2>
+<p>
+<img src="https://img.shields.io/badge/OS-Linux%20Windows-blue"> 
+<img src="https://img.shields.io/badge/Language-Python-blue"> 
+<img src="https://img.shields.io/badge/Data%20processing-Numpy%2C%20Pandas%2C%20ScikitLearn-blue">
+<img src="https://img.shields.io/badge/Database-Mysql-blue"> 
+<img src="https://img.shields.io/badge/Statistic-timeseries%20forecasting,%20Hyperparameter%20testing-blue"> 
+<img src="https://img.shields.io/badge/Machine%20Learning-Classification%2C%20Regression%2C%20Clustering%2C%20PCA%2C%20A%2FB%20testing-blue">
+<img src="https://img.shields.io/badge/Data%20Visualization%20-Matplotlib%2C%20Seaborn%20-blue">
+	
+</p>
+
+
 <h2>🔥 Streak Stats </h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilavya2000&theme=algolia" alt="nilavya" /></p>
 
