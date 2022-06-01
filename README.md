@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/nilavya2000">Nilavya<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/nilavya2000">Nilavya<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="10px" /></h1>
 
 
  
