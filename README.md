@@ -47,11 +47,11 @@
 
  <h2> 📊 Github Profile Stats </h2>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nilavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilavya2000&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <a><img alt="nilavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilavya2000&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilavya2000&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Nilavya" height="192px"/>
 	  </a>
 <br/>
-    <a href="https://github.com/7oSkaaa"><img alt="Nilavya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilavya2000&custom_title=Nilavya's%20Contribution%20Graph&theme=react-dark" /></a>
+    <a><img alt="Nilavya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilavya2000&custom_title=Nilavya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   <br> 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px" height="60px"> Connect with me </h2>
