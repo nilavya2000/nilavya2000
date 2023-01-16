@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on `solving problems on kaggle`
 - 🌱 I’m currently learning `Data Science, Machine Learning, Deep Learning`
 - 👯 I’m looking to collaborate with other developers for `building cool projects on data science`
-- 👨‍💻 I’m currently open for `An Intern` or a new `job opportunity`
+- 👨‍💻 I’m currently contributing to `FarmGuru as a Data Analyst`
 - 💬 Ask me about `Anything related to Data science`
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `Love to have coffee while coding`
