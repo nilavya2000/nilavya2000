@@ -1,24 +1,20 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/nilavya2000">Nilavya<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="120px" height="120px" /></h1>
-
-
- 
-<p align="center">
+<!-- <p align="center">
     <img width="200" src="https://github.com/nilavya2000/nilavya2000/blob/master/images/WhatsApp%20Image%202022-04-23%20at%202.27.17%20AM.jpeg">
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center", src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Science;Machine+Learning;Data+Visualization;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>    -->
-
 <br>
 <h2> :sassy_man:  About me </h2>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px height= 350px/>
-<br><br>
+<br>
 	
-- 🔭 I’m currently working on `solving problems on kaggle`
+- 🔭 I’m currently working on `GEN AI engineering`
 - 🌱 I’m currently learning `Data Science, Machine Learning, Deep Learning`
 - 👯 I’m looking to collaborate with other developers for `building cool projects on data science`
-- 👨‍💻 I’m currently contributing to `FarmGuru as a Data Analyst`
+- 👨‍💻 I’m currently contributing to `FarmGuru as a Lead Data Analyst`
 - 💬 Ask me about `Anything related to Data science`
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `Love to have coffee while coding`
@@ -38,12 +34,12 @@
 </p>
 
 
-<h2>🔥 Streak Stats </h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilavya2000&theme=algolia" alt="nilavya" /></p>
-
-<br>
-<br>
-
+<!-- <h2>🔥 Streak Stats </h2> -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilavya2000&theme=algolia" alt="nilavya" /></p>
+ -->
+<!-- <br> -->
+<!-- <br>
+ -->
 
  <h2> 📊 Github Profile Stats </h2>
   <p align="center">
@@ -51,8 +47,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilavya2000&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Nilavya" height="192px"/>
 	  </a>
 <br/>
-    <a><img alt="Nilavya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilavya2000&custom_title=Nilavya's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<!--     <a><img alt="Nilavya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilavya2000&custom_title=Nilavya's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/> -->
   <br> 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px" height="60px"> Connect with me </h2>
 <p align="center">
